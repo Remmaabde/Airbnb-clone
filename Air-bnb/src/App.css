@@ -55,3 +55,7 @@ main{
 .card--star {
     height: 14px;
 }
+h2{
+  font-size:.75rem;;
+  font-weight: normal;
+}

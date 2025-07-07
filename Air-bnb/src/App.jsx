@@ -11,7 +11,13 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Card/>
+      <Card img="img/image 12.png"
+             rating={5.0}
+             points={6 }
+             country="Ethiopia"
+             lesson="Life lessons from katie zaferes"
+             price={136}
+        />
       
     </>
   )
